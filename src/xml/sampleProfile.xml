@@ -1,0 +1,32 @@
+<profiles>
+<profile>
+  <profileAttributes>
+    <profileID>urn:glide:prism:SampleProfile</profileID>
+    <profileCreator>Chris Mattmann</profileCreator>
+  </profileAttributes>
+  
+  <resourceAttributes>
+    <resourceClass>data.mp3</resourceClass>
+    <resourceLocation>http://www-scf.usc.edu/~mattmann/drdf.mp3</resourceLocation>
+    <owner>Chris Mattmann</owner>
+    <creator>Chris Mattmann</creator>
+    <author>Chris Mattmann</author>
+  </resourceAttributes>
+  
+  <profileElement>
+    <name>MP3.Genre</name>
+    <creator>Chris Mattmann</creator>
+    <title>Genre of the MP3</title>
+    <context>GLIDE</context>
+    <value>Classic Rock</value>
+  </profileElement>
+  
+  <profileElement>
+    <name>MP3.Quality</name>
+    <creator>Chris Mattmann</creator>
+    <title>Quality of the MP3 (e.g. 128 kbit, 192 kbit, etc.)</title>
+    <context>GLIDE</context>
+    <value>192</value>   
+  </profileElement>
+  </profile>
+ </profiles>

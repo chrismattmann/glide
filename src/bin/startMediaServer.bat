@@ -1,0 +1,2 @@
+start java -Dmp3.fileStore.loc=/www/mediaProductStore -classpath ".;..\..\lib\Prism-MW-2.0.jar;..\..\lib\glide.jar;..\..\lib\jigsaw.jar;" mobilemedia.startMobileMediaServer --hostName localhost --portNum 9268 --archName urn:glide:prism:MMServer
+pause

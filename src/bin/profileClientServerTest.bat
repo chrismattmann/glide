@@ -1,0 +1,1 @@
+java -Dglide.profileHandlers=glide.profile.handlers.TestProfileHandler; -classpath ".;..\..\lib\Prism-MW-2.0.jar;..\..\lib\glide.jar;" glide.profile.test.ProfileClientTest --query %1

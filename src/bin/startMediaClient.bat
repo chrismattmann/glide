@@ -1,0 +1,1 @@
+call java -Dmp3.download.loc=/www/mediaRecStore -classpath ".;..\..\lib\Prism-MW-2.0.jar;..\..\lib\glide.jar;..\..\lib\jigsaw.jar;" mobilemedia.startMobileMediaClient --hostName 192.168.0.189 --portNum 9268 --archName urn:drdf:prism:MMClient
